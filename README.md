@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad-Ozair-Attiq
 - 👀 I’m interested in CyberSec, DevSecOps, Artificial Intelligence
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning all of the above
 - 💞️ I’m looking to collaborate on Handy - Dandy Projects regarding tools in CyberSec
 - 📫 Reach out using: ozairattiq99@gmail.com
 
