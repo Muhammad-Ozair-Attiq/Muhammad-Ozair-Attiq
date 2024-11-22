@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ozair Attiq</h1>
-<h3 align="center">A passionate High Performance computing expert in Artificial Intelligence Applications</h3>
+<h3 align="center">A passionate High Performance Computing developer expert in Artificial Intelligence Applications</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-ozair-attiq" alt="muhammad-ozair-attiq" /></a> </p>
 
@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/muhammad-ozair-attiq-68b18a1a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ozair-attiq-68b18a1a0/" height="30" width="40" /></a>
 <a href="https://kaggle.com/muhammadozairattiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammadozairattiq" height="30" width="40" /></a>
 <a href="https://medium.com/@muhammadozairattiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhammadozairattiq" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@muhammadozairattiq8437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@muhammadozairattiq8437" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@muhammadozairattiq8437" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@muhammadozairattiq8437" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/m_ozair_attiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m_ozair_attiq" height="30" width="40" /></a>
 </p>
 
