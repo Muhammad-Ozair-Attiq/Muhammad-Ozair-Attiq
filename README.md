@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **ozairattiq99@gmail.com**
 
+- 📄 Know about my experiences [https://flowcv.com/resume/1k8dnsk2fn](https://flowcv.com/resume/1k8dnsk2fn)
+
 - ⚡ Fun fact **I am jack of many skills**
 
 <h3 align="left">Connect with me:</h3>
